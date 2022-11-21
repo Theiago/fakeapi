@@ -28,5 +28,6 @@
             "preco": "R$ 5.00",
             "peso_carne": "350ml"
         }
-    ]
+    ],
+    "carrinho": []
 }
